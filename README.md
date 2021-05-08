@@ -16,7 +16,7 @@ Aether 0.0.01 09.05.2021
         bike/car
         white surface
         initially block
-        nitro/dash
+        no nitro/dash
         incentive
         hurdles/turns
         spike traps
