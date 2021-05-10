@@ -5,8 +5,8 @@ using UnityEngine;
 public class CameraTrail : MonoBehaviour
 {
     public Transform target;
-    public float trailDistance =5.0f;
-    public float heightOffset=3.0f;
+    public float trailDistance =0f;
+    public float heightOffset=0f;
    
     void Update()
     {
