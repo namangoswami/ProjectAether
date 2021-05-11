@@ -7,16 +7,24 @@ using UnityEngine;
 public class PlayerMovement2 : MonoBehaviour
 {
     public List<WheelCollider> throttleWheels;
-    public List<WheelCollider> steeringWheel;
+    public List<GameObject> steeringWheel;
+    public List<GameObject> Meshes;
+    public GameObject wheelL, wheelR;
     public InputManager im;
     public float strenghtCoefficient =20000f;
     public float maxTurn=20f;
-    
+    public Transform CM;
+    public Rigidbody rb;
     
     // Start is called before the first frame update
     void Start()
     {
        im=GetComponent<InputManager>();
+       rb=GetComponent<Rigidbody>();
+       if(CM)
+       {
+           rb.centerOfMass=CM.position;
+       }
     }
 
     // Update is called once per frame
@@ -26,11 +34,17 @@ public class PlayerMovement2 : MonoBehaviour
        {
            wheel.motorTorque=strenghtCoefficient*Time.deltaTime*im.throttle;
        }
-       foreach (WheelCollider wheel in steeringWheel)
+       foreach (GameObject wheel in steeringWheel)
        {
-           wheel.steerAngle=maxTurn*im.steer;
-       }
+           wheel.GetComponent<WheelCollider>().steerAngle=maxTurn*im.steer;
+            wheelL.transform.localEulerAngles=new Vector3(0f, im.steer*maxTurn+180, 0f);
+            wheelR.transform.localEulerAngles=new Vector3(0f, im.steer*maxTurn, 0f);
+            
+         }
         
-       
+       foreach(GameObject mesh in Meshes)
+       {
+           mesh.transform.Rotate(rb.velocity.magnitude*(transform.InverseTransformDirection(rb.velocity).z >=0?1:(-1))/(2*Mathf.PI*0.15f), 0f, 0f);
+       }
     }
 }
