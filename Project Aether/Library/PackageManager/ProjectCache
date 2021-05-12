@@ -1,19 +1,34 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
+<<<<<<< HEAD
     m_FilePath: D:/CDP Studio/Project Aether/ProjectAether/Project Aether/Packages/manifest.json
+=======
+    m_FilePath: C:/CDP Studio/ProjectAether/Project Aether/Packages/manifest.json
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637561894650263671
     m_Hash: 4070978512
   m_LockFileStatus:
     m_FilePath: D:/CDP Studio/Project Aether/ProjectAether/Project Aether/Packages/packages-lock.json
+=======
+      ticks: 637562465852477913
+    m_Hash: 4070978512
+  m_LockFileStatus:
+    m_FilePath: C:/CDP Studio/ProjectAether/Project Aether/Packages/packages-lock.json
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< HEAD
       ticks: 637561894650263671
+=======
+      ticks: 637562465852487925
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
     m_Hash: 2142867407
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -25,7 +40,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.collab-proxy@1.3.9
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.collab-proxy@1.3.9
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -122,7 +141,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.rider@2.0.7
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.rider@2.0.7
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -227,7 +250,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -256,6 +283,7 @@ m_PackageAssets:
         - 2.0.3
         - 2.0.5
         - 2.0.7
+        - 2.0.8
         compatible:
         - 1.0.2
         - 1.0.3
@@ -269,7 +297,8 @@ m_PackageAssets:
         - 2.0.3
         - 2.0.5
         - 2.0.7
-        verified: 2.0.7
+        - 2.0.8
+        verified: 2.0.8
       dependencies:
       - name: com.unity.test-framework
         version: 1.1.9
@@ -308,7 +337,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.vscode@1.2.3
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.vscode@1.2.3
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -377,7 +410,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.test-framework@1.1.24
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.test-framework@1.1.24
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -465,7 +502,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.4
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.textmeshpro@3.0.4
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.textmeshpro@3.0.4
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -624,7 +665,11 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.7
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.timeline@1.4.7
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.timeline@1.4.7
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -2574,7 +2619,11 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
+<<<<<<< HEAD
       resolvedPath: D:\CDP Studio\Project Aether\ProjectAether\Project Aether\Library\PackageCache\com.unity.ext.nunit@1.0.6
+=======
+      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ext.nunit@1.0.6
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2590,8 +2639,18 @@ m_PackageAssets:
       errors: []
       versions:
         all:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
         - 1.0.6
         compatible:
+        - 0.1.5-preview
+        - 0.1.6-preview
+        - 0.1.9-preview
+        - 1.0.0
+        - 1.0.5
         - 1.0.6
         verified: 1.0.6
       dependencies: []
@@ -2612,7 +2671,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637429759280000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -2622,5 +2681,9 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
+<<<<<<< HEAD
 m_ProjectPath: D:/CDP Studio/Project Aether/ProjectAether/Project Aether/Packages
+=======
+m_ProjectPath: C:/CDP Studio/ProjectAether/Project Aether/Packages
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
 m_EditorVersion: 2020.3.7f1 (dd97f2c94397)

@@ -11,7 +11,7 @@ public class SpawnTile2 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        nextStep+=10;
+        nextStep+=6;
         Instantiate(tile[Random.Range(0, tile.Length)], new Vector3(startPos.position.x, startPos.position.y, transform.position.z+nextStep), Quaternion.identity);
     }
 }
