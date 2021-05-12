@@ -25,11 +25,11 @@ public class SpawnTile : MonoBehaviour
     {
         if(Time.time-startTime>timeOffset)
         {
-              if(Random.value <0.33333f)
+              if(Random.value >0.5f)
             {
                 direction=mainDirection;
             }
-            else if(Random.value < 0.6666f)
+            else if(Random.value < 0.25f)
             {
                 Vector3 temp=direction;
                 direction=otherDirection;

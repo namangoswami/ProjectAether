@@ -39,12 +39,13 @@ public class PlayerMovement2 : MonoBehaviour
            wheel.GetComponent<WheelCollider>().steerAngle=maxTurn*im.steer;
             wheelL.transform.localEulerAngles=new Vector3(0f, im.steer*maxTurn+180, 0f);
             wheelR.transform.localEulerAngles=new Vector3(0f, im.steer*maxTurn, 0f);
-            
+           
          }
         
        foreach(GameObject mesh in Meshes)
        {
            mesh.transform.Rotate(rb.velocity.magnitude*(transform.InverseTransformDirection(rb.velocity).z >=0?1:(-1))/(2*Mathf.PI*0.15f), 0f, 0f);
        }
+       
     }
 }
