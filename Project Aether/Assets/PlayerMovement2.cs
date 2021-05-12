@@ -8,7 +8,7 @@ public class PlayerMovement2 : MonoBehaviour
 {
     public List<WheelCollider> throttleWheels;
     public List<GameObject> steeringWheel;
-    public List<GameObject> Meshes;
+    public List<GameObject> MeshesL, MeshesR;
     public GameObject wheelL, wheelR;
     public InputManager im;
     public float strenghtCoefficient =20000f;
@@ -42,10 +42,12 @@ public class PlayerMovement2 : MonoBehaviour
            
          }
         
-       foreach(GameObject mesh in Meshes)
+       foreach(GameObject mesh in MeshesR)
        {
            mesh.transform.Rotate(rb.velocity.magnitude*(transform.InverseTransformDirection(rb.velocity).z >=0?1:(-1))/(2*Mathf.PI*0.15f), 0f, 0f);
        }
-       
+        foreach(GameObject mesh in MeshesL)
+       {mesh.transform.Rotate(rb.velocity.magnitude*(transform.InverseTransformDirection(rb.velocity).z >=0?(1):(-1))/(-2*Mathf.PI*0.15f), 0f, 0f);
+       }
     }
 }

@@ -11,9 +11,9 @@ public class CameraTrail : MonoBehaviour
    
     void Update()
     {
-        Vector3 followPos = target.position -target.forward*trailDistance;
+        Vector3 followPos = target.position -target.forward*trailDistance*delay;
         followPos.y+=heightOffset;
-        transform.position+=(followPos-transform.position)*delay;
+        transform.position+=(followPos-transform.position);
         transform.LookAt(target.transform);
     }
 }
