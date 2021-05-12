@@ -1,1 +1,13 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":73.71520233154297,"y":-27.688495635986329,"z":-15.818948745727539},"rotation":{"x":0.7133976817131043,"y":0.045486681163311008,"z":-0.046507906168699267,"w":0.6977333426475525},"size":204.74807739257813,"orthographic":true}
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":1.2920947074890137,"y":-2.4944565296173097,"z":-3.438213348388672},"rotation":{"x":0.21032309532165528,"y":0.5927295684814453,"z":-0.16404294967651368,"w":0.7599533796310425},"size":4.267343997955322,"orthographic":true}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":0.0000019073486328125,"y":0.854814887046814,"z":-0.005593776702880859},"rotation":{"x":0.0012983822962269188,"y":-0.9923387765884399,"z":0.010420119389891625,"w":0.12330587953329086},"size":2.5520389080047609,"orthographic":false}
+>>>>>>> 897e790d677ce7e95ef7fd8fc68074957eeb11dd
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"m_AlwaysRefresh":false,"showFog":true,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true,"showVisualEffectGraphs":true,"m_FxEnabled":true},"in2DMode":false,"pivot":{"x":-2.726195812225342,"y":0.8321224451065064,"z":4.634443283081055},"rotation":{"x":0.23623773455619813,"y":0.7504109144210815,"z":-0.347337543964386,"w":0.5103781819343567},"size":4.998407363891602,"orthographic":false}
+>>>>>>> 454e537e1039f332bd539680a1306921a4b8d88d
+>>>>>>> ebf1480ed8eb91d4ce0d763c360c0e2d68b5279d
