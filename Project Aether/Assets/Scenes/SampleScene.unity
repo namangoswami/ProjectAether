@@ -2117,7 +2117,7 @@ MonoBehaviour:
   wheelR: {fileID: 1298234006}
   im: {fileID: 0}
   strenghtCoefficient: 20000
-  maxTurn: 20
+  maxTurn: 45
   CM: {fileID: 0}
   rb: {fileID: 1636577344}
 --- !u!143 &1636577347
