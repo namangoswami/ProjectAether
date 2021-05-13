@@ -1531,13 +1531,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-<<<<<<< HEAD
-=======
     - target: {fileID: 8047673623158825579, guid: efe06c0608269fb45a852b9c1aff7526, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
       objectReference: {fileID: 2100000, guid: aad598b43aa780247ae3dc593eceea9f, type: 2}
->>>>>>> 26329123f32daa88458ff4b4965a65f0f94d4be7
     - target: {fileID: 8151462475310680994, guid: efe06c0608269fb45a852b9c1aff7526, type: 3}
       propertyPath: m_Name
       value: Pavement (57)
