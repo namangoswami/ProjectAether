@@ -15,6 +15,7 @@ public class PlayerMovement2 : MonoBehaviour
     public float maxTurn=20f;
     public Transform CM;
     public Rigidbody rb;
+    public float brakeStrength;
     
     // Start is called before the first frame update
     void Start()
@@ -26,13 +27,39 @@ public class PlayerMovement2 : MonoBehaviour
            rb.centerOfMass=CM.position;
        }
     }
-
+    void Update()
+    {   
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+       
+    }
     // Update is called once per frame
     void FixedUpdate()
     {
        foreach (WheelCollider wheel in throttleWheels)
        {
-           wheel.motorTorque=strenghtCoefficient*Time.deltaTime*im.throttle;
+          
+            if(im.brake)
+            {   
+                wheel.motorTorque=0f;
+                wheel.brakeTorque=brakeStrength*Time.deltaTime;
+
+            }
+            else
+            {
+                 wheel.motorTorque=strenghtCoefficient*Time.deltaTime*im.throttle;
+                wheel.brakeTorque= 0f;
+            }
+       
        }
        foreach (GameObject wheel in steeringWheel)
        {
