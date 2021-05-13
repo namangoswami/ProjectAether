@@ -1,0 +1,1866 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-05-13T18:12:39.987+05:30
+  initializedAtString: 2021-05-13T18:12:22.638+05:30
+  entries:
+  - path: Project Aether\Assets\Plugins.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins.meta
+    projectPath: Assets\Plugins.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub.meta
+    projectPath: Assets\Plugins\GitHub.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor.meta
+    projectPath: Assets\Plugins\GitHub\Editor.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\AsyncBridge.Net35.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    projectPath: Assets\Plugins\GitHub\Editor\big-logo@2x.png.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\credits.txt
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\credits.txt
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\credits.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\credits.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\eula.txt
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\eula.txt
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\eula.txt.meta
+    projectPath: Assets\Plugins\GitHub\Editor\eula.txt.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ExtensionLoader.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Api.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Logging.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.45.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.Unity.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.dll.mdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    projectPath: Assets\Plugins\GitHub\Editor\GitHub.UnityShim.pdb.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\libsfw.bundle
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.bundle.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\libsfw.so
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\libsfw.so
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    projectPath: Assets\Plugins\GitHub\Editor\libsfw.so.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\Mono.Posix.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    projectPath: Assets\Plugins\GitHub\Editor\QuickGuide.pdf.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\ReadOnlyCollectionsInterfaces.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\sfw.net.dll
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\sfw.net.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\System.Threading.dll
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\System.Threading.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    projectPath: Assets\Plugins\GitHub\Editor\UnityAPIWrapper.cs.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x64.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x64.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x64\sfw_x64.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x86.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x86.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\pthreadVC2.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    projectPath: Assets\Plugins\GitHub\Editor\x86\sfw_x86.dll.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\APIUpdater\project-dependencies.graph
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\APIUpdater\project-dependencies.graph
+    projectPath: Library\APIUpdater\project-dependencies.graph
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ArtifactDB
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\Artifacts\00\007429cdc8efefe57165e3ded4861c5d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\00\007429cdc8efefe57165e3ded4861c5d
+    projectPath: Library\Artifacts\00\007429cdc8efefe57165e3ded4861c5d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\09\09f288190c85e788cb16755e7c26c234
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\09\09f288190c85e788cb16755e7c26c234
+    projectPath: Library\Artifacts\09\09f288190c85e788cb16755e7c26c234
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\0e\0e769656b5e49adf36359f504b9e167b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0e\0e769656b5e49adf36359f504b9e167b
+    projectPath: Library\Artifacts\0e\0e769656b5e49adf36359f504b9e167b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\0e\0efed6312ca6a0c2021624d3093f00f3
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0e\0efed6312ca6a0c2021624d3093f00f3
+    projectPath: Library\Artifacts\0e\0efed6312ca6a0c2021624d3093f00f3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\14\14e8137dad73e8f3552e72cc5a236f18
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\14\14e8137dad73e8f3552e72cc5a236f18
+    projectPath: Library\Artifacts\14\14e8137dad73e8f3552e72cc5a236f18
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\34\341dd9a6b0b7de24aa65b45b40eb239a
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\34\341dd9a6b0b7de24aa65b45b40eb239a
+    projectPath: Library\Artifacts\34\341dd9a6b0b7de24aa65b45b40eb239a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\3a\3a80b68ec0c8459ae77448136e472459
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\3a\3a80b68ec0c8459ae77448136e472459
+    projectPath: Library\Artifacts\3a\3a80b68ec0c8459ae77448136e472459
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\3b\3b306c4c4f85ae046d34901ea538169c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\3b\3b306c4c4f85ae046d34901ea538169c
+    projectPath: Library\Artifacts\3b\3b306c4c4f85ae046d34901ea538169c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\41\41bd3cf62a75b42e258ff7f014e0a476
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\41\41bd3cf62a75b42e258ff7f014e0a476
+    projectPath: Library\Artifacts\41\41bd3cf62a75b42e258ff7f014e0a476
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\4c\4c80a481c2556eca9afcef2604813ff9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\4c\4c80a481c2556eca9afcef2604813ff9
+    projectPath: Library\Artifacts\4c\4c80a481c2556eca9afcef2604813ff9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\50\5067187b30333caaa5cfd0476da448ca
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\50\5067187b30333caaa5cfd0476da448ca
+    projectPath: Library\Artifacts\50\5067187b30333caaa5cfd0476da448ca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\52\5212b25cb0d9146ee4812de7f584020c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\52\5212b25cb0d9146ee4812de7f584020c
+    projectPath: Library\Artifacts\52\5212b25cb0d9146ee4812de7f584020c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\55\55ac37f23a4b122100e04384c1911977
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\55\55ac37f23a4b122100e04384c1911977
+    projectPath: Library\Artifacts\55\55ac37f23a4b122100e04384c1911977
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\5a\5af2bbd721a9da7522d845ff86482e76
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\5a\5af2bbd721a9da7522d845ff86482e76
+    projectPath: Library\Artifacts\5a\5af2bbd721a9da7522d845ff86482e76
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\6b\6be817483043fec3c80d58997d602dd0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\6b\6be817483043fec3c80d58997d602dd0
+    projectPath: Library\Artifacts\6b\6be817483043fec3c80d58997d602dd0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\9b\9b08f02dbc0521bf5ad002c295becf0f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\9b\9b08f02dbc0521bf5ad002c295becf0f
+    projectPath: Library\Artifacts\9b\9b08f02dbc0521bf5ad002c295becf0f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\a4\a4336cd2c68469c200f3ed80c0b805cf
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a4\a4336cd2c68469c200f3ed80c0b805cf
+    projectPath: Library\Artifacts\a4\a4336cd2c68469c200f3ed80c0b805cf
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\a7\a787c8b5748badce334d44a23e7542d1
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a7\a787c8b5748badce334d44a23e7542d1
+    projectPath: Library\Artifacts\a7\a787c8b5748badce334d44a23e7542d1
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\ba\baede5e4cf2e404065374423d1e80d2d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ba\baede5e4cf2e404065374423d1e80d2d
+    projectPath: Library\Artifacts\ba\baede5e4cf2e404065374423d1e80d2d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\bc\bc8023c260a3e711046c996e6192f42d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\bc\bc8023c260a3e711046c996e6192f42d
+    projectPath: Library\Artifacts\bc\bc8023c260a3e711046c996e6192f42d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\c0\c03059daffd21592bc54470040d9b8b4
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c0\c03059daffd21592bc54470040d9b8b4
+    projectPath: Library\Artifacts\c0\c03059daffd21592bc54470040d9b8b4
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\d0\d09800c558d909d837645465b943381b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d0\d09800c558d909d837645465b943381b
+    projectPath: Library\Artifacts\d0\d09800c558d909d837645465b943381b
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\d0\d0b4055068d76b550cb1240ab5765dcc
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d0\d0b4055068d76b550cb1240ab5765dcc
+    projectPath: Library\Artifacts\d0\d0b4055068d76b550cb1240ab5765dcc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d7\d76ce1bda6674145388e664132da6167
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d7\d76ce1bda6674145388e664132da6167
+    projectPath: Library\Artifacts\d7\d76ce1bda6674145388e664132da6167
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\e7\e788d82e2c0029ab3507e704e743cf9f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e7\e788d82e2c0029ab3507e704e743cf9f
+    projectPath: Library\Artifacts\e7\e788d82e2c0029ab3507e704e743cf9f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\f0\f0c60340e445049b8dcc38b3992f3156
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f0\f0c60340e445049b8dcc38b3992f3156
+    projectPath: Library\Artifacts\f0\f0c60340e445049b8dcc38b3992f3156
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\fc\fc37585fff95e0edc2e31bc047d07f50
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\fc\fc37585fff95e0edc2e31bc047d07f50
+    projectPath: Library\Artifacts\fc\fc37585fff95e0edc2e31bc047d07f50
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\CurrentLayout-default.dwlt
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\EditorInstance.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\SceneVisibilityState.asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.dll
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp-Editor-firstpass.pdb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.CollabProxy.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Rider.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    projectPath: Library\ScriptAssemblies\Unity.TextMeshPro.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.Timeline.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.Timeline.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.Timeline.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.Timeline.pdb
+    projectPath: Library\ScriptAssemblies\Unity.Timeline.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VisualStudio.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    projectPath: Library\ScriptAssemblies\Unity.VSCode.Editor.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEditor.UI.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEditor.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEditor.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEditor.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.TestRunner.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEngine.UI.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEngine.UI.dll
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\UnityEngine.UI.pdb
+    projectPath: Library\ScriptAssemblies\UnityEngine.UI.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\SourceAssetDB
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\StateCache\MainStageHierarchy\c8\c8bb992dbce4bd041b477203bc2d31b0.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\StateCache\MainStageHierarchy\c8\c8bb992dbce4bd041b477203bc2d31b0.json
+    projectPath: Library\StateCache\MainStageHierarchy\c8\c8bb992dbce4bd041b477203bc2d31b0.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\AssetImportWorker0.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\AssetImportWorker1.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\AssetImportWorker1.log
+    projectPath: Logs\AssetImportWorker1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Logs\AssetImportWorker2.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\AssetImportWorker2.log
+    projectPath: Logs\AssetImportWorker2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Logs\AssetImportWorker3.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\AssetImportWorker3.log
+    projectPath: Logs\AssetImportWorker3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Temp\Assembly-CSharp.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Assembly-CSharp.dll.hash
+    projectPath: Temp\Assembly-CSharp.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    projectPath: Temp\Assembly-CSharp-Editor-firstpass.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\CompilationLog.txt
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\CompilationLog.txt
+    projectPath: Temp\CompilationLog.txt
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\.icon.png
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\.icon.png
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\.icon.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\0188ec438976e5849b40a2c1ce5f20f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\1186e0491049e40ba8e7e19e418d9e8e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\136dc24f151211d438acee17aff4e934\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\151a1d946b98deb4b98445400983ba92\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\15ca2bebf173f2d4484686a03a45b56d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\181f65fb096cedd4493bc9971257d8b1\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\18e096a98c2704c40a818dd1214cd179\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\18e096a98c2704c40a818dd1214cd179\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\18e096a98c2704c40a818dd1214cd179\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\18e096a98c2704c40a818dd1214cd179\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\18e096a98c2704c40a818dd1214cd179\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\18e096a98c2704c40a818dd1214cd179\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\21206c65839f84d0e9ae14bc1fdc68db\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\23c8bee69b591054094d32918f98facd\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\2590b98e5cafc4e32b61170d7b917ee6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\33d3e83914445de4d92ab0d77d7fa3f9\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\480071253ef427a4cbc55ef1fedca3e5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\48c22d5d7479fcb49ab3be0cdd2ccec0\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\4ba86e5b8d6657b4184ff6b976ac3d3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\555cd6f54c03341b1970d950df1a5ee5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\5a2082a44711bad4b90f693579c2b336\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\636d33ae594884e7d80b569f429d245d\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1dd4\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\68c7e4565cde54155bb78d8e935f1ddb\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\6e4df876417ac4c4f8862a5234b25615\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\720712be6e31c444f88f57bb85bf5fa5\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\720712be6e31c444f88f57bb85bf5fa5\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\720712be6e31c444f88f57bb85bf5fa5\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\720712be6e31c444f88f57bb85bf5fa5\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\790749ba7e4b18141953e39cb13f1b79\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\863e1b9976c4e46d29bf83928b3a8ab2\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\868fbb4c41814baebc00f96e24ede2f8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\877ef3585573ce44eab899298be23158\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\99b48d4d4f6a66340ab06bd487d70a45\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\99b48d4d4f6a66340ab06bd487d70a45\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a0ded7adcc817ce489fec07977f16d13\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a0ded7adcc817ce489fec07977f16d13\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a0ded7adcc817ce489fec07977f16d13\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a0ded7adcc817ce489fec07977f16d13\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\a83159a46d87d2a4f8cec651049b9231\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c0809c8f0ddd4b546939f6fe7a94ac6c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c5c83d14802e712408f23409f3c59e26\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ab\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\c743ae24ee231884887054d20ccdd0ae\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\cad92998c5182496e8b989b406d9f156\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\cad92998c5182496e8b989b406d9f156\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\cad92998c5182496e8b989b406d9f156\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\cad92998c5182496e8b989b406d9f156\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\cad92998c5182496e8b989b406d9f156\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\cad92998c5182496e8b989b406d9f156\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d516f2a1bec6a9645a084ef8c9237132\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\d601ecb6855bb432bae2aa49d8fd82e8\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\dae2ecee8a704dd59797e26554ff8606\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\ddb8611e748af425a82a497ac5a98c0c\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\preview.png
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\preview.png
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f81094832d834c64d93b198cb16b6a3e\preview.png
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\f9fc9b08ecd899944adf9860b4abd6b6\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\asset
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\asset.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    projectPath: Temp\Export Package\ce97be730f82aa4479ee57cdd5052054\fe5abeadcbe591e4fa9107fbc02f3998\pathname
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.CollabProxy.Editor.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.CollabProxy.Editor.dll.hash
+    projectPath: Temp\Unity.CollabProxy.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.Rider.Editor.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.Rider.Editor.dll.hash
+    projectPath: Temp\Unity.Rider.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.TextMeshPro.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.TextMeshPro.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.TextMeshPro.Editor.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.TextMeshPro.Editor.dll.hash
+    projectPath: Temp\Unity.TextMeshPro.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.Timeline.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.Timeline.dll.hash
+    projectPath: Temp\Unity.Timeline.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.Timeline.Editor.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.Timeline.Editor.dll.hash
+    projectPath: Temp\Unity.Timeline.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.VisualStudio.Editor.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.VisualStudio.Editor.dll.hash
+    projectPath: Temp\Unity.VisualStudio.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\Unity.VSCode.Editor.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\Unity.VSCode.Editor.dll.hash
+    projectPath: Temp\Unity.VSCode.Editor.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityEditor.TestRunner.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityEditor.TestRunner.dll.hash
+    projectPath: Temp\UnityEditor.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityEditor.UI.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityEditor.UI.dll.hash
+    projectPath: Temp\UnityEditor.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityEngine.TestRunner.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityEngine.TestRunner.dll.hash
+    projectPath: Temp\UnityEngine.TestRunner.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityEngine.UI.dll.hash
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityEngine.UI.dll.hash
+    projectPath: Temp\UnityEngine.UI.dll.hash
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityLockfile
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-02b76288c77f80c47a4b24925d8b344d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-02b76288c77f80c47a4b24925d8b344d
+    projectPath: Temp\UnityTempFile-02b76288c77f80c47a4b24925d8b344d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-0a330cd1c5e69fb428852179d21d136e
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-0a330cd1c5e69fb428852179d21d136e
+    projectPath: Temp\UnityTempFile-0a330cd1c5e69fb428852179d21d136e
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-1c93520f7f49e1c49b8fa2ece30d8ebc
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-1c93520f7f49e1c49b8fa2ece30d8ebc
+    projectPath: Temp\UnityTempFile-1c93520f7f49e1c49b8fa2ece30d8ebc
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-2766e936be6eaea499174d428cd8caca
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-2766e936be6eaea499174d428cd8caca
+    projectPath: Temp\UnityTempFile-2766e936be6eaea499174d428cd8caca
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-35c4f61e2bd12114a9a6e394998204eb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-35c4f61e2bd12114a9a6e394998204eb
+    projectPath: Temp\UnityTempFile-35c4f61e2bd12114a9a6e394998204eb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-373ee48b90f79554580cd4eff7c6bf50
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-373ee48b90f79554580cd4eff7c6bf50
+    projectPath: Temp\UnityTempFile-373ee48b90f79554580cd4eff7c6bf50
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-40944953305ac9d4883b16711a90dcb0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-40944953305ac9d4883b16711a90dcb0
+    projectPath: Temp\UnityTempFile-40944953305ac9d4883b16711a90dcb0
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-4630faa0ccf92fa4d845ed93a80e5e7a
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-4630faa0ccf92fa4d845ed93a80e5e7a
+    projectPath: Temp\UnityTempFile-4630faa0ccf92fa4d845ed93a80e5e7a
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-46d9bf62bd53fc24ab200ce919a3b296
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-46d9bf62bd53fc24ab200ce919a3b296
+    projectPath: Temp\UnityTempFile-46d9bf62bd53fc24ab200ce919a3b296
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-500c6cda6b9131840b0fafab81df7513
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-500c6cda6b9131840b0fafab81df7513
+    projectPath: Temp\UnityTempFile-500c6cda6b9131840b0fafab81df7513
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-5277f762bf267ff4382940564cc03acb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-5277f762bf267ff4382940564cc03acb
+    projectPath: Temp\UnityTempFile-5277f762bf267ff4382940564cc03acb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-5c04329fc3faac748a58c0d1b9eb6876
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-5c04329fc3faac748a58c0d1b9eb6876
+    projectPath: Temp\UnityTempFile-5c04329fc3faac748a58c0d1b9eb6876
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-5d4e2bc14af668840becfa174878e5bb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-5d4e2bc14af668840becfa174878e5bb
+    projectPath: Temp\UnityTempFile-5d4e2bc14af668840becfa174878e5bb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-73746e3f61d5cba4fa26f137bc40ee26
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-73746e3f61d5cba4fa26f137bc40ee26
+    projectPath: Temp\UnityTempFile-73746e3f61d5cba4fa26f137bc40ee26
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-909a95096605efb48ba03d5ca7c5aad9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-909a95096605efb48ba03d5ca7c5aad9
+    projectPath: Temp\UnityTempFile-909a95096605efb48ba03d5ca7c5aad9
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-a056ab62b40aa6442a662869e5c9fb36
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-a056ab62b40aa6442a662869e5c9fb36
+    projectPath: Temp\UnityTempFile-a056ab62b40aa6442a662869e5c9fb36
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-a4172616be06a9b4db16b522ff6170f5
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-a4172616be06a9b4db16b522ff6170f5
+    projectPath: Temp\UnityTempFile-a4172616be06a9b4db16b522ff6170f5
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-a60d8c12f58c8d14799c517a07bee784
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-a60d8c12f58c8d14799c517a07bee784
+    projectPath: Temp\UnityTempFile-a60d8c12f58c8d14799c517a07bee784
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-a9c354f7efa5c134592e276f4847bb2f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-a9c354f7efa5c134592e276f4847bb2f
+    projectPath: Temp\UnityTempFile-a9c354f7efa5c134592e276f4847bb2f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-abb4ec42950aece4d987dcd331fb1519
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-abb4ec42950aece4d987dcd331fb1519
+    projectPath: Temp\UnityTempFile-abb4ec42950aece4d987dcd331fb1519
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-ca9f713f58d4de44fa523945c9cc434d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-ca9f713f58d4de44fa523945c9cc434d
+    projectPath: Temp\UnityTempFile-ca9f713f58d4de44fa523945c9cc434d
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-cc7616ad04e9de04b8e5be8fea94c1d3
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-cc7616ad04e9de04b8e5be8fea94c1d3
+    projectPath: Temp\UnityTempFile-cc7616ad04e9de04b8e5be8fea94c1d3
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-d03a8268a2df8b349a7f22b45b0a630f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-d03a8268a2df8b349a7f22b45b0a630f
+    projectPath: Temp\UnityTempFile-d03a8268a2df8b349a7f22b45b0a630f
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-d21537e7b23fb4a44ba153202503cd53
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-d21537e7b23fb4a44ba153202503cd53
+    projectPath: Temp\UnityTempFile-d21537e7b23fb4a44ba153202503cd53
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-e0eb044e5b8e9c6469e69b0f98f4085c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-e0eb044e5b8e9c6469e69b0f98f4085c
+    projectPath: Temp\UnityTempFile-e0eb044e5b8e9c6469e69b0f98f4085c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-ea657b2ce8ffcf34cb799c8f4fd073c8
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-ea657b2ce8ffcf34cb799c8f4fd073c8
+    projectPath: Temp\UnityTempFile-ea657b2ce8ffcf34cb799c8f4fd073c8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-f20cfc2ebcf9f284d8de94923b4ac5aa
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-f20cfc2ebcf9f284d8de94923b4ac5aa
+    projectPath: Temp\UnityTempFile-f20cfc2ebcf9f284d8de94923b4ac5aa
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityTempFile-f530eb1c980e9f3479b0e355b58c54b8
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityTempFile-f530eb1c980e9f3479b0e355b58c54b8
+    projectPath: Temp\UnityTempFile-f530eb1c980e9f3479b0e355b58c54b8
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\workerlic
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
