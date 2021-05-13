@@ -1,9 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+
 
 using UnityEngine;
 [RequireComponent(typeof(InputManager))]
+[RequireComponent(typeof(LightingManager))]
 public class PlayerMovement2 : MonoBehaviour
 {
     public List<WheelCollider> throttleWheels;
@@ -11,10 +12,12 @@ public class PlayerMovement2 : MonoBehaviour
     public List<GameObject> MeshesL, MeshesR;
     public GameObject wheelL, wheelR;
     public InputManager im;
+    public LightingManager lm;
     public float strenghtCoefficient =20000f;
     public float maxTurn=20f;
     public Transform CM;
     public Rigidbody rb;
+    public float brakeStrength;
     
     // Start is called before the first frame update
     void Start()
@@ -27,12 +30,32 @@ public class PlayerMovement2 : MonoBehaviour
        }
     }
 
+    void Update()
+    {
+        if (im.l)
+        {
+            lm.ToggleHeadlights();
+        }
+    }
+
     // Update is called once per frame
     void FixedUpdate()
     {
        foreach (WheelCollider wheel in throttleWheels)
        {
-           wheel.motorTorque=strenghtCoefficient*Time.deltaTime*im.throttle;
+          
+            if(im.brake)
+            {   
+                wheel.motorTorque=0f;
+                wheel.brakeTorque=brakeStrength*Time.deltaTime;
+
+            }
+            else
+            {
+                 wheel.motorTorque=strenghtCoefficient*Time.deltaTime*im.throttle;
+                wheel.brakeTorque= 0f;
+            }
+       
        }
        foreach (GameObject wheel in steeringWheel)
        {
