@@ -35,6 +35,13 @@ public class PlayerMovement2 : MonoBehaviour
         {
             lm.ToggleHeadlights();
         }
+
+        if (im.tl)
+            lm.ToggleBrakelightsOn(im.tl);
+        else
+        {
+            lm.ToggleBrakelightsOff();
+        }
     }
 
     // Update is called once per frame

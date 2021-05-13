@@ -8,6 +8,7 @@ public class InputManager : MonoBehaviour
     public float throttle;
     public float steer;
     public bool l;
+    public bool tl;
 
     // Update is called once per frame
     void Update()
@@ -16,5 +17,6 @@ public class InputManager : MonoBehaviour
         steer=Input.GetAxis("Horizontal");
 
         l = Input.GetKeyDown(KeyCode.L);
+        tl = Input.GetKey(KeyCode.S);
     }
 }
