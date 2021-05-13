@@ -1,9 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEngine;
+
 
 using UnityEngine;
 [RequireComponent(typeof(InputManager))]
+[RequireComponent(typeof(LightingManager))]
 public class PlayerMovement2 : MonoBehaviour
 {
     public List<WheelCollider> throttleWheels;
@@ -11,6 +12,7 @@ public class PlayerMovement2 : MonoBehaviour
     public List<GameObject> MeshesL, MeshesR;
     public GameObject wheelL, wheelR;
     public InputManager im;
+    public LightingManager lm;
     public float strenghtCoefficient =20000f;
     public float maxTurn=20f;
     public Transform CM;
@@ -27,21 +29,15 @@ public class PlayerMovement2 : MonoBehaviour
            rb.centerOfMass=CM.position;
        }
     }
+
     void Update()
-    {   
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-       
+    {
+        if (im.l)
+        {
+            lm.ToggleHeadlights();
+        }
     }
+
     // Update is called once per frame
     void FixedUpdate()
     {
