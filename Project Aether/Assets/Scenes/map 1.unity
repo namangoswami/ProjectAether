@@ -1327,8 +1327,6 @@ PrefabInstance:
 --- !u!1001 &154132833
 PrefabInstance:
   m_ObjectHideFlags: 0
-<<<<<<< HEAD
-=======
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
@@ -1473,7 +1471,6 @@ MeshFilter:
 --- !u!1001 &154132833
 PrefabInstance:
   m_ObjectHideFlags: 0
->>>>>>> 26329123f32daa88458ff4b4965a65f0f94d4be7
   serializedVersion: 2
   m_Modification:
     m_TransformParent: {fileID: 0}
@@ -14214,8 +14211,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f22353457af5a36488ee2987a312b964, type: 3}
-<<<<<<< HEAD
-=======
 --- !u!1001 &1534779891
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -14313,7 +14308,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 5d2d294a55c8dad4f863791b2ec6aa9e, type: 3}
->>>>>>> 26329123f32daa88458ff4b4965a65f0f94d4be7
 --- !u!1001 &1548055254
 PrefabInstance:
   m_ObjectHideFlags: 0
