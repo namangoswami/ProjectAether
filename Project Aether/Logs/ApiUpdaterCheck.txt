@@ -289,8 +289,40 @@ candidates check time : 62ms
 console write time    : 2ms
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [api-updater (non-obsolete-error-filter)] 5/13/2021 6:00:29 PM : Starting C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
 [api-updater (non-obsolete-error-filter)] Exception caught while loading types from C:\CDP Studio\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+=======
+[api-updater (non-obsolete-error-filter)] 13-05-2021 23:00:02 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 667.9815ms
+moved types parse time: 62ms
+candidates parse time : 1ms
+C# parse time         : 270ms
+candidates check time : 33ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 13-05-2021 23:54:35 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 97.0066ms
+moved types parse time: 77ms
+candidates parse time : 1ms
+C# parse time         : 341ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13-05-2021 23:58:11 : Starting C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 97.0072ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 269ms
+candidates check time : 44ms
+console write time    : 0ms
+>>>>>>> 4f7a0ef376ee66010aa8681538e17f024e7248bf
 =======
 [api-updater (non-obsolete-error-filter)] 13-05-2021 18:01:54 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
 [api-updater (non-obsolete-error-filter)] Exception caught while loading types from D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Unity.TextMeshPro.Editor.dll (some types may not be loaded)
@@ -317,4 +349,85 @@ C# parse time         : 1418ms
 candidates check time : 37ms
 >>>>>>> 1abba7bd99370786177ae8cb5576340e6762a21d
 console write time    : 1ms
+>>>>>>> 1abba7bd99370786177ae8cb5576340e6762a21d
+
+[api-updater (non-obsolete-error-filter)] 13-05-2021 20:06:34 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1793.7148ms
+moved types parse time: 73ms
+candidates parse time : 1ms
+C# parse time         : 1031ms
+candidates check time : 55ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13-05-2021 20:06:44 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 95.9957ms
+moved types parse time: 84ms
+candidates parse time : 2ms
+C# parse time         : 268ms
+candidates check time : 57ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13-05-2021 20:07:01 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 93.0545ms
+moved types parse time: 72ms
+candidates parse time : 2ms
+C# parse time         : 288ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 13-05-2021 23:10:07 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1825.0901ms
+moved types parse time: 71ms
+candidates parse time : 1ms
+C# parse time         : 1255ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-05-2021 01:09:38 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1321.8398ms
+moved types parse time: 81ms
+candidates parse time : 2ms
+C# parse time         : 879ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-05-2021 01:10:39 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 549.692ms
+moved types parse time: 78ms
+candidates parse time : 2ms
+C# parse time         : 324ms
+candidates check time : 52ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-05-2021 01:11:06 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 125.388ms
+moved types parse time: 108ms
+candidates parse time : 2ms
+C# parse time         : 363ms
+candidates check time : 51ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 14-05-2021 01:11:31 : Starting D:/Unity Root/2020.3.7f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 114.6075ms
+moved types parse time: 93ms
+candidates parse time : 3ms
+C# parse time         : 344ms
+candidates check time : 56ms
+console write time    : 0ms
 

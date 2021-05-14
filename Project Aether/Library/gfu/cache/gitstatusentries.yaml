@@ -1,0 +1,1434 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2021-05-14T02:02:58.749+05:30
+  initializedAtString: 2021-05-14T01:59:17.497+05:30
+  entries:
+  - path: Project Aether\Assets\Scenes\SampleScene.unity
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Assets\Scenes\SampleScene.unity
+    projectPath: Assets\Scenes\SampleScene.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ArtifactDB
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\Artifacts\01\01037031dd88c50c758bbc90a0a7f5f0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\01\01037031dd88c50c758bbc90a0a7f5f0
+    projectPath: Library\Artifacts\01\01037031dd88c50c758bbc90a0a7f5f0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\01\012836391bddfffe787189900d669fe5
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\01\012836391bddfffe787189900d669fe5
+    projectPath: Library\Artifacts\01\012836391bddfffe787189900d669fe5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\01\0167c2554e7e7675dbcdbb33704f4985
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\01\0167c2554e7e7675dbcdbb33704f4985
+    projectPath: Library\Artifacts\01\0167c2554e7e7675dbcdbb33704f4985
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\04\04788e15dc2131a374c63768ccc7c67f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\04\04788e15dc2131a374c63768ccc7c67f
+    projectPath: Library\Artifacts\04\04788e15dc2131a374c63768ccc7c67f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\05\0509d02a2bd881ef724c6b4f97fa3126
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\05\0509d02a2bd881ef724c6b4f97fa3126
+    projectPath: Library\Artifacts\05\0509d02a2bd881ef724c6b4f97fa3126
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\05\05894650fb99ba78161d5a163814d401
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\05\05894650fb99ba78161d5a163814d401
+    projectPath: Library\Artifacts\05\05894650fb99ba78161d5a163814d401
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\0a\0a4c39b6026d2b4e11959e030543462d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0a\0a4c39b6026d2b4e11959e030543462d
+    projectPath: Library\Artifacts\0a\0a4c39b6026d2b4e11959e030543462d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\0a\0af97ed20e9ea85f1f6996a2ddd64268
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0a\0af97ed20e9ea85f1f6996a2ddd64268
+    projectPath: Library\Artifacts\0a\0af97ed20e9ea85f1f6996a2ddd64268
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\0d\0d59f535928505582160785dfa12e77d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0d\0d59f535928505582160785dfa12e77d
+    projectPath: Library\Artifacts\0d\0d59f535928505582160785dfa12e77d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\0e\0edd2889f9a341fba8ba0ab4fb589b71
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0e\0edd2889f9a341fba8ba0ab4fb589b71
+    projectPath: Library\Artifacts\0e\0edd2889f9a341fba8ba0ab4fb589b71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\0f\0faeebc5ea03bc2e75ab31d478f7dc8c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0f\0faeebc5ea03bc2e75ab31d478f7dc8c
+    projectPath: Library\Artifacts\0f\0faeebc5ea03bc2e75ab31d478f7dc8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\0f\0fd11f242fd85d71dc9bb18696172daa
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\0f\0fd11f242fd85d71dc9bb18696172daa
+    projectPath: Library\Artifacts\0f\0fd11f242fd85d71dc9bb18696172daa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\10\10eac3ddeb5a1743218a62fcb92ce21d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\10\10eac3ddeb5a1743218a62fcb92ce21d
+    projectPath: Library\Artifacts\10\10eac3ddeb5a1743218a62fcb92ce21d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\11\110c2151b6aae133db53be461ff1413b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\11\110c2151b6aae133db53be461ff1413b
+    projectPath: Library\Artifacts\11\110c2151b6aae133db53be461ff1413b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\11\11a61cb638765d3e22e0d79f057fa787
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\11\11a61cb638765d3e22e0d79f057fa787
+    projectPath: Library\Artifacts\11\11a61cb638765d3e22e0d79f057fa787
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\13\137af19b635b5dfd67186df60ffec7ac
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\13\137af19b635b5dfd67186df60ffec7ac
+    projectPath: Library\Artifacts\13\137af19b635b5dfd67186df60ffec7ac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\16\16d7fba2077c72f470698a8fdde1273a
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\16\16d7fba2077c72f470698a8fdde1273a
+    projectPath: Library\Artifacts\16\16d7fba2077c72f470698a8fdde1273a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\17\1799773a31949f5b308846c3b7163ef9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\17\1799773a31949f5b308846c3b7163ef9
+    projectPath: Library\Artifacts\17\1799773a31949f5b308846c3b7163ef9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\19\199d51fe548d4f48ebb34ae1b8677e38
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\19\199d51fe548d4f48ebb34ae1b8677e38
+    projectPath: Library\Artifacts\19\199d51fe548d4f48ebb34ae1b8677e38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\19\19fcd040b3bef23cc127e4ab48e276e0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\19\19fcd040b3bef23cc127e4ab48e276e0
+    projectPath: Library\Artifacts\19\19fcd040b3bef23cc127e4ab48e276e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\1e\1e70bffc023f76ac08a0a2ca0519745c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\1e\1e70bffc023f76ac08a0a2ca0519745c
+    projectPath: Library\Artifacts\1e\1e70bffc023f76ac08a0a2ca0519745c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\1e\1ed86fd0396d440c255d9127ceffb7bb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\1e\1ed86fd0396d440c255d9127ceffb7bb
+    projectPath: Library\Artifacts\1e\1ed86fd0396d440c255d9127ceffb7bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\21\21336fa13f747cd42a6166d973a8d63f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\21\21336fa13f747cd42a6166d973a8d63f
+    projectPath: Library\Artifacts\21\21336fa13f747cd42a6166d973a8d63f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\23\234de057a7eb3f7787578696b053e300
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\23\234de057a7eb3f7787578696b053e300
+    projectPath: Library\Artifacts\23\234de057a7eb3f7787578696b053e300
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\27\27f3da57cbba672c0921a29d059f8d4d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\27\27f3da57cbba672c0921a29d059f8d4d
+    projectPath: Library\Artifacts\27\27f3da57cbba672c0921a29d059f8d4d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\2c\2c7063390ca0604006eaf53616fc2a80
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\2c\2c7063390ca0604006eaf53616fc2a80
+    projectPath: Library\Artifacts\2c\2c7063390ca0604006eaf53616fc2a80
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\2d\2d707d500cd1b42f230f518c8107a405
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\2d\2d707d500cd1b42f230f518c8107a405
+    projectPath: Library\Artifacts\2d\2d707d500cd1b42f230f518c8107a405
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\30\3099534beb6c3c3a0408cc64bebab24b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\30\3099534beb6c3c3a0408cc64bebab24b
+    projectPath: Library\Artifacts\30\3099534beb6c3c3a0408cc64bebab24b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\30\30d66954634f7fc23080d06f9372a264
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\30\30d66954634f7fc23080d06f9372a264
+    projectPath: Library\Artifacts\30\30d66954634f7fc23080d06f9372a264
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\30\30f3379606df05ce3cc9aacc5bc52409
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\30\30f3379606df05ce3cc9aacc5bc52409
+    projectPath: Library\Artifacts\30\30f3379606df05ce3cc9aacc5bc52409
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\33\33be4e66c17d6466f1a81e0bdce668a6
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\33\33be4e66c17d6466f1a81e0bdce668a6
+    projectPath: Library\Artifacts\33\33be4e66c17d6466f1a81e0bdce668a6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\35\3586b0b7158498693a78b90decf7fba4
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\35\3586b0b7158498693a78b90decf7fba4
+    projectPath: Library\Artifacts\35\3586b0b7158498693a78b90decf7fba4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\36\36edf6cd6b431e1bed5fd3f088f92690
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\36\36edf6cd6b431e1bed5fd3f088f92690
+    projectPath: Library\Artifacts\36\36edf6cd6b431e1bed5fd3f088f92690
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\38\384d5b1978fe83fa11a541a8c29b67e9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\38\384d5b1978fe83fa11a541a8c29b67e9
+    projectPath: Library\Artifacts\38\384d5b1978fe83fa11a541a8c29b67e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\38\38872b4fea12a4de60ae72da0ec69a1c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\38\38872b4fea12a4de60ae72da0ec69a1c
+    projectPath: Library\Artifacts\38\38872b4fea12a4de60ae72da0ec69a1c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\39\391b47a899ec69ba9c47c57ce874c78a
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\39\391b47a899ec69ba9c47c57ce874c78a
+    projectPath: Library\Artifacts\39\391b47a899ec69ba9c47c57ce874c78a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\3a\3a3ccb2c14b974116f1bbe81bdfc80aa
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\3a\3a3ccb2c14b974116f1bbe81bdfc80aa
+    projectPath: Library\Artifacts\3a\3a3ccb2c14b974116f1bbe81bdfc80aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\3c\3c2ca76b4e72d9f8da38940b5370fd5d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\3c\3c2ca76b4e72d9f8da38940b5370fd5d
+    projectPath: Library\Artifacts\3c\3c2ca76b4e72d9f8da38940b5370fd5d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\3c\3ca6115a6f21ab967f431281f1de4a60
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\3c\3ca6115a6f21ab967f431281f1de4a60
+    projectPath: Library\Artifacts\3c\3ca6115a6f21ab967f431281f1de4a60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\3e\3ea0b44264242d1c773eabd12c24dd71
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\3e\3ea0b44264242d1c773eabd12c24dd71
+    projectPath: Library\Artifacts\3e\3ea0b44264242d1c773eabd12c24dd71
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\3f\3fc68c90ede9c1162bd68730dba44248
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\3f\3fc68c90ede9c1162bd68730dba44248
+    projectPath: Library\Artifacts\3f\3fc68c90ede9c1162bd68730dba44248
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\41\41a207257324ab7eae39f953cc1c3a1e
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\41\41a207257324ab7eae39f953cc1c3a1e
+    projectPath: Library\Artifacts\41\41a207257324ab7eae39f953cc1c3a1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\42\42ea2c07fba5cfc50783eda9b5f2f777
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\42\42ea2c07fba5cfc50783eda9b5f2f777
+    projectPath: Library\Artifacts\42\42ea2c07fba5cfc50783eda9b5f2f777
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\43\433ad22fbbc1b23c4e5bd4b71157e610
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\43\433ad22fbbc1b23c4e5bd4b71157e610
+    projectPath: Library\Artifacts\43\433ad22fbbc1b23c4e5bd4b71157e610
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\44\441228c084c0e96880581cc192cf6ae0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\44\441228c084c0e96880581cc192cf6ae0
+    projectPath: Library\Artifacts\44\441228c084c0e96880581cc192cf6ae0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\45\45bfa9662dcb5aad668b96055169860d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\45\45bfa9662dcb5aad668b96055169860d
+    projectPath: Library\Artifacts\45\45bfa9662dcb5aad668b96055169860d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+    projectPath: Library\Artifacts\47\475ed46c046e28c440042307bb323fd9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\48\480eed1665b19d1ae72ea48a547bc5cb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\48\480eed1665b19d1ae72ea48a547bc5cb
+    projectPath: Library\Artifacts\48\480eed1665b19d1ae72ea48a547bc5cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\48\4892d997d756eccb47d98dd14d542d1f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\48\4892d997d756eccb47d98dd14d542d1f
+    projectPath: Library\Artifacts\48\4892d997d756eccb47d98dd14d542d1f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\49\49ac79f54bf9f8728176248781478c09
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\49\49ac79f54bf9f8728176248781478c09
+    projectPath: Library\Artifacts\49\49ac79f54bf9f8728176248781478c09
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\4a\4a5c25f3d46c87baf3f57d25235fdce9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\4a\4a5c25f3d46c87baf3f57d25235fdce9
+    projectPath: Library\Artifacts\4a\4a5c25f3d46c87baf3f57d25235fdce9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\4c\4cffbb904f2fc58694e24a017267ac02
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\4c\4cffbb904f2fc58694e24a017267ac02
+    projectPath: Library\Artifacts\4c\4cffbb904f2fc58694e24a017267ac02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\4d\4da549cb9e99dca48ca20ec87fa09dcf
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\4d\4da549cb9e99dca48ca20ec87fa09dcf
+    projectPath: Library\Artifacts\4d\4da549cb9e99dca48ca20ec87fa09dcf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\4f\4f23284f1a1312dfc142f5d394279da3
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\4f\4f23284f1a1312dfc142f5d394279da3
+    projectPath: Library\Artifacts\4f\4f23284f1a1312dfc142f5d394279da3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\4f\4f4988025f986c6dc783bad14fba1730
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\4f\4f4988025f986c6dc783bad14fba1730
+    projectPath: Library\Artifacts\4f\4f4988025f986c6dc783bad14fba1730
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\4f\4fe37c4d452a033c4d63a071b7925a7c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\4f\4fe37c4d452a033c4d63a071b7925a7c
+    projectPath: Library\Artifacts\4f\4fe37c4d452a033c4d63a071b7925a7c
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\Artifacts\50\5063858a05fe960cb0314c574b52cf45
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\50\5063858a05fe960cb0314c574b52cf45
+    projectPath: Library\Artifacts\50\5063858a05fe960cb0314c574b52cf45
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\51\512fcb04e7171395fa5e5853d455397c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\51\512fcb04e7171395fa5e5853d455397c
+    projectPath: Library\Artifacts\51\512fcb04e7171395fa5e5853d455397c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\53\53bb41969778cd919bac10caf8979a53
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\53\53bb41969778cd919bac10caf8979a53
+    projectPath: Library\Artifacts\53\53bb41969778cd919bac10caf8979a53
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\53\53ebbe044c61aa55738aaf6b7f942828
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\53\53ebbe044c61aa55738aaf6b7f942828
+    projectPath: Library\Artifacts\53\53ebbe044c61aa55738aaf6b7f942828
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\54\542dba19e2cb7881983a791a0f852324
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\54\542dba19e2cb7881983a791a0f852324
+    projectPath: Library\Artifacts\54\542dba19e2cb7881983a791a0f852324
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\55\55cf8281f7ba59d515a8fa2a4f460bba
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\55\55cf8281f7ba59d515a8fa2a4f460bba
+    projectPath: Library\Artifacts\55\55cf8281f7ba59d515a8fa2a4f460bba
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\56\56dc19b208c4d6c2462d9a6e0732342e
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\56\56dc19b208c4d6c2462d9a6e0732342e
+    projectPath: Library\Artifacts\56\56dc19b208c4d6c2462d9a6e0732342e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\57\5760ee901d1adf8e6af66487c800390b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\57\5760ee901d1adf8e6af66487c800390b
+    projectPath: Library\Artifacts\57\5760ee901d1adf8e6af66487c800390b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\58\5802c5667b520e388130c59f67403387
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\58\5802c5667b520e388130c59f67403387
+    projectPath: Library\Artifacts\58\5802c5667b520e388130c59f67403387
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\58\5886b419caf2e45222601d8eccb6f851
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\58\5886b419caf2e45222601d8eccb6f851
+    projectPath: Library\Artifacts\58\5886b419caf2e45222601d8eccb6f851
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\5a\5aff5e2e36c69cdca58945012a19fff2
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\5a\5aff5e2e36c69cdca58945012a19fff2
+    projectPath: Library\Artifacts\5a\5aff5e2e36c69cdca58945012a19fff2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\5c\5caf21aad213072f2be21e5b533c52c9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\5c\5caf21aad213072f2be21e5b533c52c9
+    projectPath: Library\Artifacts\5c\5caf21aad213072f2be21e5b533c52c9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\5e\5ec5f45e50ec62d54350dc025f29fc99
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\5e\5ec5f45e50ec62d54350dc025f29fc99
+    projectPath: Library\Artifacts\5e\5ec5f45e50ec62d54350dc025f29fc99
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\5f\5f1ae061d266fec680707f1907e1b507
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\5f\5f1ae061d266fec680707f1907e1b507
+    projectPath: Library\Artifacts\5f\5f1ae061d266fec680707f1907e1b507
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\61\613bfa8ae10b9943e72205b3aa19902c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\61\613bfa8ae10b9943e72205b3aa19902c
+    projectPath: Library\Artifacts\61\613bfa8ae10b9943e72205b3aa19902c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\63\63de779ab2a4e255962e5e02e2d3d2bb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\63\63de779ab2a4e255962e5e02e2d3d2bb
+    projectPath: Library\Artifacts\63\63de779ab2a4e255962e5e02e2d3d2bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\65\6512cbe8932739bbec56dd04a5299f08
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\65\6512cbe8932739bbec56dd04a5299f08
+    projectPath: Library\Artifacts\65\6512cbe8932739bbec56dd04a5299f08
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\65\65ba21fd2cb5cc62180d478c080e0297
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\65\65ba21fd2cb5cc62180d478c080e0297
+    projectPath: Library\Artifacts\65\65ba21fd2cb5cc62180d478c080e0297
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\66\66f3b469f7a2b5d2249b98fccdfe7615
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\66\66f3b469f7a2b5d2249b98fccdfe7615
+    projectPath: Library\Artifacts\66\66f3b469f7a2b5d2249b98fccdfe7615
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\67\672f3d7ae6530339b30b603335187294
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\67\672f3d7ae6530339b30b603335187294
+    projectPath: Library\Artifacts\67\672f3d7ae6530339b30b603335187294
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\67\677573014a57e97572f22369d67ea0ee
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\67\677573014a57e97572f22369d67ea0ee
+    projectPath: Library\Artifacts\67\677573014a57e97572f22369d67ea0ee
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\67\67828ad1242e5fd675da16420fdbc62c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\67\67828ad1242e5fd675da16420fdbc62c
+    projectPath: Library\Artifacts\67\67828ad1242e5fd675da16420fdbc62c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\69\6939850bbf88c33c520be5027215ba0f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\69\6939850bbf88c33c520be5027215ba0f
+    projectPath: Library\Artifacts\69\6939850bbf88c33c520be5027215ba0f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\69\69c12fae10dc6b2ec9a0f7eea86d0ec5
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\69\69c12fae10dc6b2ec9a0f7eea86d0ec5
+    projectPath: Library\Artifacts\69\69c12fae10dc6b2ec9a0f7eea86d0ec5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\6a\6a3eacb44cdaba9becb4d875e154927d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\6a\6a3eacb44cdaba9becb4d875e154927d
+    projectPath: Library\Artifacts\6a\6a3eacb44cdaba9becb4d875e154927d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\6b\6b953a650d044f483357cb5c8fe9f2d3
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\6b\6b953a650d044f483357cb5c8fe9f2d3
+    projectPath: Library\Artifacts\6b\6b953a650d044f483357cb5c8fe9f2d3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\72\725e451ee297569b73093146b9084f28
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\72\725e451ee297569b73093146b9084f28
+    projectPath: Library\Artifacts\72\725e451ee297569b73093146b9084f28
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\72\72e6daef04f6040d86ae8a3de99fe426
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\72\72e6daef04f6040d86ae8a3de99fe426
+    projectPath: Library\Artifacts\72\72e6daef04f6040d86ae8a3de99fe426
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\73\73117d3a063c43eb3167c690cb960c32
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\73\73117d3a063c43eb3167c690cb960c32
+    projectPath: Library\Artifacts\73\73117d3a063c43eb3167c690cb960c32
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\75\758a81997792183b725f49d996234866
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\75\758a81997792183b725f49d996234866
+    projectPath: Library\Artifacts\75\758a81997792183b725f49d996234866
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\75\75a8c18823aa02e978f6e55efc5f7740
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\75\75a8c18823aa02e978f6e55efc5f7740
+    projectPath: Library\Artifacts\75\75a8c18823aa02e978f6e55efc5f7740
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\75\75e59780df9d0ef4d3646bdb94549d0a
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\75\75e59780df9d0ef4d3646bdb94549d0a
+    projectPath: Library\Artifacts\75\75e59780df9d0ef4d3646bdb94549d0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\76\767ba519efe96753bd455878a80bd77c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\76\767ba519efe96753bd455878a80bd77c
+    projectPath: Library\Artifacts\76\767ba519efe96753bd455878a80bd77c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\76\76893dc1fe52e90929d4ad2e747a7cc0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\76\76893dc1fe52e90929d4ad2e747a7cc0
+    projectPath: Library\Artifacts\76\76893dc1fe52e90929d4ad2e747a7cc0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\76\76ad87488459d0f22c0bec13df0ca4b7
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\76\76ad87488459d0f22c0bec13df0ca4b7
+    projectPath: Library\Artifacts\76\76ad87488459d0f22c0bec13df0ca4b7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\77\77ed77c88c383114a4079f0338b83039
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\77\77ed77c88c383114a4079f0338b83039
+    projectPath: Library\Artifacts\77\77ed77c88c383114a4079f0338b83039
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\78\7832625627336a987a992907cf5d5bac
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\78\7832625627336a987a992907cf5d5bac
+    projectPath: Library\Artifacts\78\7832625627336a987a992907cf5d5bac
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\7b\7b6caca1ae98e8dbceb637c6c2f867e1
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\7b\7b6caca1ae98e8dbceb637c6c2f867e1
+    projectPath: Library\Artifacts\7b\7b6caca1ae98e8dbceb637c6c2f867e1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\7c\7c3d0b27860a567e70b908c46cacbd9e
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\7c\7c3d0b27860a567e70b908c46cacbd9e
+    projectPath: Library\Artifacts\7c\7c3d0b27860a567e70b908c46cacbd9e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\7c\7cf4903d38c9af088a16d30249ba1a38
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\7c\7cf4903d38c9af088a16d30249ba1a38
+    projectPath: Library\Artifacts\7c\7cf4903d38c9af088a16d30249ba1a38
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\7e\7e3cdd332c3a215875470748eaacec92
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\7e\7e3cdd332c3a215875470748eaacec92
+    projectPath: Library\Artifacts\7e\7e3cdd332c3a215875470748eaacec92
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\7f\7f399eac508de1c9baf84d9f7339488f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\7f\7f399eac508de1c9baf84d9f7339488f
+    projectPath: Library\Artifacts\7f\7f399eac508de1c9baf84d9f7339488f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\7f\7fcfbc6ded7aa44658a96254db478f67
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\7f\7fcfbc6ded7aa44658a96254db478f67
+    projectPath: Library\Artifacts\7f\7fcfbc6ded7aa44658a96254db478f67
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\81\81b44acc965f5389b2242ba4af131148
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\81\81b44acc965f5389b2242ba4af131148
+    projectPath: Library\Artifacts\81\81b44acc965f5389b2242ba4af131148
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\82\82288424e5974aa076678cfee9a08825
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\82\82288424e5974aa076678cfee9a08825
+    projectPath: Library\Artifacts\82\82288424e5974aa076678cfee9a08825
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\82\827bde292dae9c9e84f86422272c33cf
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\82\827bde292dae9c9e84f86422272c33cf
+    projectPath: Library\Artifacts\82\827bde292dae9c9e84f86422272c33cf
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\84\843e4bd12ec020477df1ed6fe4b162d7
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\84\843e4bd12ec020477df1ed6fe4b162d7
+    projectPath: Library\Artifacts\84\843e4bd12ec020477df1ed6fe4b162d7
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\84\84e4b34bb55ffcfa7ec25cabc817a7fc
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\84\84e4b34bb55ffcfa7ec25cabc817a7fc
+    projectPath: Library\Artifacts\84\84e4b34bb55ffcfa7ec25cabc817a7fc
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\86\86221a75a5dfb681506366c2d0b99e76
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\86\86221a75a5dfb681506366c2d0b99e76
+    projectPath: Library\Artifacts\86\86221a75a5dfb681506366c2d0b99e76
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\89\89a5bc2e35f97c185400826b8d762526
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\89\89a5bc2e35f97c185400826b8d762526
+    projectPath: Library\Artifacts\89\89a5bc2e35f97c185400826b8d762526
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\8a\8a40f4cc868565306dff91d257777a0a
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\8a\8a40f4cc868565306dff91d257777a0a
+    projectPath: Library\Artifacts\8a\8a40f4cc868565306dff91d257777a0a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\8b\8b20ab19177b11c3d8fbab6f6e2d2ced
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\8b\8b20ab19177b11c3d8fbab6f6e2d2ced
+    projectPath: Library\Artifacts\8b\8b20ab19177b11c3d8fbab6f6e2d2ced
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\8c\8c72150ae1276746a4e241522380cbd8
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\8c\8c72150ae1276746a4e241522380cbd8
+    projectPath: Library\Artifacts\8c\8c72150ae1276746a4e241522380cbd8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    projectPath: Library\Artifacts\8e\8e7c571ada9824aee9691ad076d73e8c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\90\90f4537b687c5334ae259a609529e8e0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\90\90f4537b687c5334ae259a609529e8e0
+    projectPath: Library\Artifacts\90\90f4537b687c5334ae259a609529e8e0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\95\956f36aca12dee3a93b3c291e116d3f9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\95\956f36aca12dee3a93b3c291e116d3f9
+    projectPath: Library\Artifacts\95\956f36aca12dee3a93b3c291e116d3f9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\96\96de905c469f5306442f6ce794c8ca95
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\96\96de905c469f5306442f6ce794c8ca95
+    projectPath: Library\Artifacts\96\96de905c469f5306442f6ce794c8ca95
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\97\9790646587531c5ad0bed3805751aced
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\97\9790646587531c5ad0bed3805751aced
+    projectPath: Library\Artifacts\97\9790646587531c5ad0bed3805751aced
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\97\979cf9a3ce57765b717c07fb55ff0e05
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\97\979cf9a3ce57765b717c07fb55ff0e05
+    projectPath: Library\Artifacts\97\979cf9a3ce57765b717c07fb55ff0e05
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\99\99039c58a0d3d36b36edaa6e585f52e3
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\99\99039c58a0d3d36b36edaa6e585f52e3
+    projectPath: Library\Artifacts\99\99039c58a0d3d36b36edaa6e585f52e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\99\9993a4646db8bab5a6fa95c160685845
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\99\9993a4646db8bab5a6fa95c160685845
+    projectPath: Library\Artifacts\99\9993a4646db8bab5a6fa95c160685845
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\99\99fca0effba2549d98cefa5531ca1c85
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\99\99fca0effba2549d98cefa5531ca1c85
+    projectPath: Library\Artifacts\99\99fca0effba2549d98cefa5531ca1c85
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\9a\9a444fc738e687e1e8c1dcd2054c160e
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\9a\9a444fc738e687e1e8c1dcd2054c160e
+    projectPath: Library\Artifacts\9a\9a444fc738e687e1e8c1dcd2054c160e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\9c\9c583604a4a4fe25cd1cb86b72002cef
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\9c\9c583604a4a4fe25cd1cb86b72002cef
+    projectPath: Library\Artifacts\9c\9c583604a4a4fe25cd1cb86b72002cef
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a1\a1e45ba732a68aa8603832e568950e84
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a1\a1e45ba732a68aa8603832e568950e84
+    projectPath: Library\Artifacts\a1\a1e45ba732a68aa8603832e568950e84
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a2\a211cfe93dc9c1ee28421b1ce51b3ca4
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a2\a211cfe93dc9c1ee28421b1ce51b3ca4
+    projectPath: Library\Artifacts\a2\a211cfe93dc9c1ee28421b1ce51b3ca4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a2\a22abf12c2a80318f2e31fc4d65819aa
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a2\a22abf12c2a80318f2e31fc4d65819aa
+    projectPath: Library\Artifacts\a2\a22abf12c2a80318f2e31fc4d65819aa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a5\a56fa8ed77002be8d5f957fc3ab20307
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a5\a56fa8ed77002be8d5f957fc3ab20307
+    projectPath: Library\Artifacts\a5\a56fa8ed77002be8d5f957fc3ab20307
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a6\a6261bd8abb8f203bdda2b86adf391c1
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a6\a6261bd8abb8f203bdda2b86adf391c1
+    projectPath: Library\Artifacts\a6\a6261bd8abb8f203bdda2b86adf391c1
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a8\a8300c3df33c0944ab673670879df33b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a8\a8300c3df33c0944ab673670879df33b
+    projectPath: Library\Artifacts\a8\a8300c3df33c0944ab673670879df33b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a8\a85fa78ec5bcc6f4e5303686dc4d5aa9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a8\a85fa78ec5bcc6f4e5303686dc4d5aa9
+    projectPath: Library\Artifacts\a8\a85fa78ec5bcc6f4e5303686dc4d5aa9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\a9\a923d9d149bc9f1002bb16d1e967a2f6
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\a9\a923d9d149bc9f1002bb16d1e967a2f6
+    projectPath: Library\Artifacts\a9\a923d9d149bc9f1002bb16d1e967a2f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\aa\aa198fef82f0bae7a10302ab169538a5
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\aa\aa198fef82f0bae7a10302ab169538a5
+    projectPath: Library\Artifacts\aa\aa198fef82f0bae7a10302ab169538a5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ab\ab152f10708d61d66efaed772d21437c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ab\ab152f10708d61d66efaed772d21437c
+    projectPath: Library\Artifacts\ab\ab152f10708d61d66efaed772d21437c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ae\aef1cb296190312bd6bb8332cfb6194f
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ae\aef1cb296190312bd6bb8332cfb6194f
+    projectPath: Library\Artifacts\ae\aef1cb296190312bd6bb8332cfb6194f
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\af\af430a6b33801b296b6b4935e3249ab8
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\af\af430a6b33801b296b6b4935e3249ab8
+    projectPath: Library\Artifacts\af\af430a6b33801b296b6b4935e3249ab8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\af\afb13375528a6da66e0db6cde5c566ce
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\af\afb13375528a6da66e0db6cde5c566ce
+    projectPath: Library\Artifacts\af\afb13375528a6da66e0db6cde5c566ce
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\b0\b0e7f7ab6f681ce4e1df654ca10f6b51
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\b0\b0e7f7ab6f681ce4e1df654ca10f6b51
+    projectPath: Library\Artifacts\b0\b0e7f7ab6f681ce4e1df654ca10f6b51
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\b1\b10d1d0f606e5f3562d08ffbbb46b59a
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\b1\b10d1d0f606e5f3562d08ffbbb46b59a
+    projectPath: Library\Artifacts\b1\b10d1d0f606e5f3562d08ffbbb46b59a
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\b3\b317b58e68702b8eb3e7e78365486f34
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\b3\b317b58e68702b8eb3e7e78365486f34
+    projectPath: Library\Artifacts\b3\b317b58e68702b8eb3e7e78365486f34
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\b3\b3989cc5a61ea943bad57dde9983e071
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\b3\b3989cc5a61ea943bad57dde9983e071
+    projectPath: Library\Artifacts\b3\b3989cc5a61ea943bad57dde9983e071
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\b3\b39bb0eb9e615a0c0acfb791e6c2c7fd
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\b3\b39bb0eb9e615a0c0acfb791e6c2c7fd
+    projectPath: Library\Artifacts\b3\b39bb0eb9e615a0c0acfb791e6c2c7fd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\b3\b3a220224fdaeb3499584642141002f6
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\b3\b3a220224fdaeb3499584642141002f6
+    projectPath: Library\Artifacts\b3\b3a220224fdaeb3499584642141002f6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\b6\b652e83065846d2bafa24e61935589bb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\b6\b652e83065846d2bafa24e61935589bb
+    projectPath: Library\Artifacts\b6\b652e83065846d2bafa24e61935589bb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ba\bafcd893fe12762d96081043b057d919
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ba\bafcd893fe12762d96081043b057d919
+    projectPath: Library\Artifacts\ba\bafcd893fe12762d96081043b057d919
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\bb\bb27d6b8a16e286a56846027130fb8d4
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\bb\bb27d6b8a16e286a56846027130fb8d4
+    projectPath: Library\Artifacts\bb\bb27d6b8a16e286a56846027130fb8d4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\bd\bd09db571a95c2e9c8aca96f42b71e36
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\bd\bd09db571a95c2e9c8aca96f42b71e36
+    projectPath: Library\Artifacts\bd\bd09db571a95c2e9c8aca96f42b71e36
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\bd\bd79e223f8ea3d0e6e447f9622e918ff
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\bd\bd79e223f8ea3d0e6e447f9622e918ff
+    projectPath: Library\Artifacts\bd\bd79e223f8ea3d0e6e447f9622e918ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c0\c02f6e9148b2dba678a7a299d60ef3cb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c0\c02f6e9148b2dba678a7a299d60ef3cb
+    projectPath: Library\Artifacts\c0\c02f6e9148b2dba678a7a299d60ef3cb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c0\c09efa273c3b67ff65fd9aad91e5790d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c0\c09efa273c3b67ff65fd9aad91e5790d
+    projectPath: Library\Artifacts\c0\c09efa273c3b67ff65fd9aad91e5790d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c0\c0d039aa290e65e3b950ce1866274f1e
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c0\c0d039aa290e65e3b950ce1866274f1e
+    projectPath: Library\Artifacts\c0\c0d039aa290e65e3b950ce1866274f1e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c1\c197777eb02da8c48538396849ae2d2c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c1\c197777eb02da8c48538396849ae2d2c
+    projectPath: Library\Artifacts\c1\c197777eb02da8c48538396849ae2d2c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c3\c3c93d941880468517e75be79c129d3c
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c3\c3c93d941880468517e75be79c129d3c
+    projectPath: Library\Artifacts\c3\c3c93d941880468517e75be79c129d3c
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c4\c455cfef833994b1d54a56d995b5dac0
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c4\c455cfef833994b1d54a56d995b5dac0
+    projectPath: Library\Artifacts\c4\c455cfef833994b1d54a56d995b5dac0
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c5\c5bb922a9c635ec028a21dfd14131d8b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c5\c5bb922a9c635ec028a21dfd14131d8b
+    projectPath: Library\Artifacts\c5\c5bb922a9c635ec028a21dfd14131d8b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c7\c79726ee226e0ad0307a1bf14dea5210
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c7\c79726ee226e0ad0307a1bf14dea5210
+    projectPath: Library\Artifacts\c7\c79726ee226e0ad0307a1bf14dea5210
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c7\c7b2545315ee80a8d8ef51e7bc186613
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c7\c7b2545315ee80a8d8ef51e7bc186613
+    projectPath: Library\Artifacts\c7\c7b2545315ee80a8d8ef51e7bc186613
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c8\c852c1b09f4051ac48d51579ffaf1bd6
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c8\c852c1b09f4051ac48d51579ffaf1bd6
+    projectPath: Library\Artifacts\c8\c852c1b09f4051ac48d51579ffaf1bd6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\c9\c9b1a54840c7743919a189c93f573a17
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\c9\c9b1a54840c7743919a189c93f573a17
+    projectPath: Library\Artifacts\c9\c9b1a54840c7743919a189c93f573a17
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ca\cab19eb8bac98d9f41fae43799a1c918
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ca\cab19eb8bac98d9f41fae43799a1c918
+    projectPath: Library\Artifacts\ca\cab19eb8bac98d9f41fae43799a1c918
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\cc\cc52c3b5482c41d815df22caffad9fe6
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\cc\cc52c3b5482c41d815df22caffad9fe6
+    projectPath: Library\Artifacts\cc\cc52c3b5482c41d815df22caffad9fe6
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ce\ce94530621ddcf8f93a050dbd93ddbdd
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ce\ce94530621ddcf8f93a050dbd93ddbdd
+    projectPath: Library\Artifacts\ce\ce94530621ddcf8f93a050dbd93ddbdd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d0\d0a2cbfd0bdb959570ea509ac0afaa9b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d0\d0a2cbfd0bdb959570ea509ac0afaa9b
+    projectPath: Library\Artifacts\d0\d0a2cbfd0bdb959570ea509ac0afaa9b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d4\d4752c486aad900b8910c74f6e98cef4
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d4\d4752c486aad900b8910c74f6e98cef4
+    projectPath: Library\Artifacts\d4\d4752c486aad900b8910c74f6e98cef4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d4\d49732fbe859dd34080c275e3a86de33
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d4\d49732fbe859dd34080c275e3a86de33
+    projectPath: Library\Artifacts\d4\d49732fbe859dd34080c275e3a86de33
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d4\d49800dae580cbe37017821692c78792
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d4\d49800dae580cbe37017821692c78792
+    projectPath: Library\Artifacts\d4\d49800dae580cbe37017821692c78792
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d5\d51322b690b1c359a8502226979ad447
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d5\d51322b690b1c359a8502226979ad447
+    projectPath: Library\Artifacts\d5\d51322b690b1c359a8502226979ad447
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d6\d6f20e03719e12e8bc4c38a136678a60
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d6\d6f20e03719e12e8bc4c38a136678a60
+    projectPath: Library\Artifacts\d6\d6f20e03719e12e8bc4c38a136678a60
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d7\d7e491b52d88aff9e35b4319623b1a10
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d7\d7e491b52d88aff9e35b4319623b1a10
+    projectPath: Library\Artifacts\d7\d7e491b52d88aff9e35b4319623b1a10
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d8\d80708cde7130517c7cd4fc54a6c74ed
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d8\d80708cde7130517c7cd4fc54a6c74ed
+    projectPath: Library\Artifacts\d8\d80708cde7130517c7cd4fc54a6c74ed
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\d8\d86d5a9750b36f5ce72c5dc464d4401b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\d8\d86d5a9750b36f5ce72c5dc464d4401b
+    projectPath: Library\Artifacts\d8\d86d5a9750b36f5ce72c5dc464d4401b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\db\db73d604fd950ea21b4e4162b3a97e27
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\db\db73d604fd950ea21b4e4162b3a97e27
+    projectPath: Library\Artifacts\db\db73d604fd950ea21b4e4162b3a97e27
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\e1\e12562b40d0d0c62da7ed61666866ee4
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e1\e12562b40d0d0c62da7ed61666866ee4
+    projectPath: Library\Artifacts\e1\e12562b40d0d0c62da7ed61666866ee4
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\e1\e137831976f96cacb1ddc6adc9e8552d
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e1\e137831976f96cacb1ddc6adc9e8552d
+    projectPath: Library\Artifacts\e1\e137831976f96cacb1ddc6adc9e8552d
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\e1\e1bf6dc8d2e5af1d1f0f6eb985ae1cf8
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e1\e1bf6dc8d2e5af1d1f0f6eb985ae1cf8
+    projectPath: Library\Artifacts\e1\e1bf6dc8d2e5af1d1f0f6eb985ae1cf8
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\e2\e21b4f80bf8a535e0878ffcb8f3a1456
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e2\e21b4f80bf8a535e0878ffcb8f3a1456
+    projectPath: Library\Artifacts\e2\e21b4f80bf8a535e0878ffcb8f3a1456
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\e2\e23cdc09bd588ea6ff9f7c4a029ac18b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e2\e23cdc09bd588ea6ff9f7c4a029ac18b
+    projectPath: Library\Artifacts\e2\e23cdc09bd588ea6ff9f7c4a029ac18b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\e3\e3be7580f8aeb711e2cd1ae98b02c05e
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e3\e3be7580f8aeb711e2cd1ae98b02c05e
+    projectPath: Library\Artifacts\e3\e3be7580f8aeb711e2cd1ae98b02c05e
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\e4\e45590cfcfef94e68636b1959d9598e3
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\e4\e45590cfcfef94e68636b1959d9598e3
+    projectPath: Library\Artifacts\e4\e45590cfcfef94e68636b1959d9598e3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ea\ea0271b5c15954eab60cc17e2ff55022
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ea\ea0271b5c15954eab60cc17e2ff55022
+    projectPath: Library\Artifacts\ea\ea0271b5c15954eab60cc17e2ff55022
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ea\ea710fa92529ceaa7cf820688762fed5
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ea\ea710fa92529ceaa7cf820688762fed5
+    projectPath: Library\Artifacts\ea\ea710fa92529ceaa7cf820688762fed5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ea\eac80e1ae7c46d965c0a89d924567702
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ea\eac80e1ae7c46d965c0a89d924567702
+    projectPath: Library\Artifacts\ea\eac80e1ae7c46d965c0a89d924567702
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ee\ee156f33235b4cc64b8b6061c7250b0b
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ee\ee156f33235b4cc64b8b6061c7250b0b
+    projectPath: Library\Artifacts\ee\ee156f33235b4cc64b8b6061c7250b0b
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ee\eeaa84bfcf92eeff0c94f550aa899139
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ee\eeaa84bfcf92eeff0c94f550aa899139
+    projectPath: Library\Artifacts\ee\eeaa84bfcf92eeff0c94f550aa899139
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ef\ef0f41aef7131e49dbcf37c6a39dabe2
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ef\ef0f41aef7131e49dbcf37c6a39dabe2
+    projectPath: Library\Artifacts\ef\ef0f41aef7131e49dbcf37c6a39dabe2
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ef\ef6475a5f0434b8973a02257b6d915e9
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ef\ef6475a5f0434b8973a02257b6d915e9
+    projectPath: Library\Artifacts\ef\ef6475a5f0434b8973a02257b6d915e9
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ef\ef869e45f798efe290f6ed7970243b28
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ef\ef869e45f798efe290f6ed7970243b28
+    projectPath: Library\Artifacts\ef\ef869e45f798efe290f6ed7970243b28
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f0\f00c5eafafb0d2a0c59262e63ab6f031
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f0\f00c5eafafb0d2a0c59262e63ab6f031
+    projectPath: Library\Artifacts\f0\f00c5eafafb0d2a0c59262e63ab6f031
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f0\f0424bff6f1ecfd8d97157df4a3280dd
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f0\f0424bff6f1ecfd8d97157df4a3280dd
+    projectPath: Library\Artifacts\f0\f0424bff6f1ecfd8d97157df4a3280dd
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f1\f1b93fd50863628396bfecf5ec6d3f42
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f1\f1b93fd50863628396bfecf5ec6d3f42
+    projectPath: Library\Artifacts\f1\f1b93fd50863628396bfecf5ec6d3f42
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f2\f2ae9eefc0a6b8368709d55e87b3e436
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f2\f2ae9eefc0a6b8368709d55e87b3e436
+    projectPath: Library\Artifacts\f2\f2ae9eefc0a6b8368709d55e87b3e436
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f4\f4580ecab35c599e9711dfaac4152262
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f4\f4580ecab35c599e9711dfaac4152262
+    projectPath: Library\Artifacts\f4\f4580ecab35c599e9711dfaac4152262
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f5\f5843f4bbcbd5188e92743b7abda9608
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f5\f5843f4bbcbd5188e92743b7abda9608
+    projectPath: Library\Artifacts\f5\f5843f4bbcbd5188e92743b7abda9608
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f5\f5e286c362758aa2ad256294b20c6d02
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f5\f5e286c362758aa2ad256294b20c6d02
+    projectPath: Library\Artifacts\f5\f5e286c362758aa2ad256294b20c6d02
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f7\f7233b44b64420ecb23c1f23935a7e41
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f7\f7233b44b64420ecb23c1f23935a7e41
+    projectPath: Library\Artifacts\f7\f7233b44b64420ecb23c1f23935a7e41
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f7\f790c09ab68521195d3255233ee795fa
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f7\f790c09ab68521195d3255233ee795fa
+    projectPath: Library\Artifacts\f7\f790c09ab68521195d3255233ee795fa
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f8\f8674004518603183f52245fb1df90ec
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f8\f8674004518603183f52245fb1df90ec
+    projectPath: Library\Artifacts\f8\f8674004518603183f52245fb1df90ec
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\f9\f9c5bc1ee4255d1b483f7505850793ff
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\f9\f9c5bc1ee4255d1b483f7505850793ff
+    projectPath: Library\Artifacts\f9\f9c5bc1ee4255d1b483f7505850793ff
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\fc\fc9ca2ce416799439a98059915a71ba3
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\fc\fc9ca2ce416799439a98059915a71ba3
+    projectPath: Library\Artifacts\fc\fc9ca2ce416799439a98059915a71ba3
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\fd\fd3e17532effc394974be2fe93af4764
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\fd\fd3e17532effc394974be2fe93af4764
+    projectPath: Library\Artifacts\fd\fd3e17532effc394974be2fe93af4764
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\fe\fe358e93c0d62f703e7b547633d7e563
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\fe\fe358e93c0d62f703e7b547633d7e563
+    projectPath: Library\Artifacts\fe\fe358e93c0d62f703e7b547633d7e563
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\Artifacts\ff\ff86e175f47d32efd8a9f7c265e3c410
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\Artifacts\ff\ff86e175f47d32efd8a9f7c265e3c410
+    projectPath: Library\Artifacts\ff\ff86e175f47d32efd8a9f7c265e3c410
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Library\CurrentLayout-default.dwlt
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\CurrentLayout-default.dwlt
+    projectPath: Library\CurrentLayout-default.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\EditorInstance.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\gfu\cache\gitlocks.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\gfu\cache\gitstatusentries.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\gfu\cache\repoinfo.yaml
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\PackageManager\ProjectCache
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\PackageManager\ProjectCache
+    projectPath: Library\PackageManager\ProjectCache
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\PackageManager\ProjectCache.md5
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\PackageManager\ProjectCache.md5
+    projectPath: Library\PackageManager\ProjectCache.md5
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\SceneVisibilityState.asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\SceneVisibilityState.asset
+    projectPath: Library\SceneVisibilityState.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ScriptAssemblies\Assembly-CSharp.pdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.pdb
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\ShaderCache\7\7958777e1ce4b7ecdc0141429c26c9bd.bin
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ShaderCache\7\7958777e1ce4b7ecdc0141429c26c9bd.bin
+    projectPath: Library\ShaderCache\7\7958777e1ce4b7ecdc0141429c26c9bd.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\ShaderCache\8\8b56c759f59f294cdeb024f069fe8561.bin
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ShaderCache\8\8b56c759f59f294cdeb024f069fe8561.bin
+    projectPath: Library\ShaderCache\8\8b56c759f59f294cdeb024f069fe8561.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\ShaderCache\EditorEncounteredVariants
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\ShaderCache\EditorEncounteredVariants
+    projectPath: Library\ShaderCache\EditorEncounteredVariants
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\SourceAssetDB
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\SourceAssetDB
+    projectPath: Library\SourceAssetDB
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Library\StateCache\MainStageHierarchy\28\283ec28033973ee0e8158183d71f9fc0.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\StateCache\MainStageHierarchy\28\283ec28033973ee0e8158183d71f9fc0.json
+    projectPath: Library\StateCache\MainStageHierarchy\28\283ec28033973ee0e8158183d71f9fc0.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\StateCache\MainStageHierarchy\99\99d50be6a72efc16c87d0f03bbb29bf6.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\StateCache\MainStageHierarchy\99\99d50be6a72efc16c87d0f03bbb29bf6.json
+    projectPath: Library\StateCache\MainStageHierarchy\99\99d50be6a72efc16c87d0f03bbb29bf6.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\StateCache\MainStageHierarchy\ea\eae0753952f0ecfec0da74c4588f87dc.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\StateCache\MainStageHierarchy\ea\eae0753952f0ecfec0da74c4588f87dc.json
+    projectPath: Library\StateCache\MainStageHierarchy\ea\eae0753952f0ecfec0da74c4588f87dc.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\StateCache\SceneView\11\11b9b4512faa260b22bbae7d18b4a362.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\StateCache\SceneView\11\11b9b4512faa260b22bbae7d18b4a362.json
+    projectPath: Library\StateCache\SceneView\11\11b9b4512faa260b22bbae7d18b4a362.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\StateCache\SceneView\26\2679df325e92deabb9ac341b5b90c674.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\StateCache\SceneView\26\2679df325e92deabb9ac341b5b90c674.json
+    projectPath: Library\StateCache\SceneView\26\2679df325e92deabb9ac341b5b90c674.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Library\StateCache\SceneView\31\31c3ffe5a9c16e46163652275466ed7b.json
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Library\StateCache\SceneView\31\31c3ffe5a9c16e46163652275466ed7b.json
+    projectPath: Library\StateCache\SceneView\31\31c3ffe5a9c16e46163652275466ed7b.json
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Logs\AssetImportWorker0.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\AssetImportWorker0.log
+    projectPath: Logs\AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\AssetImportWorker0-prev.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\AssetImportWorker0-prev.log
+    projectPath: Logs\AssetImportWorker0-prev.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-AssetImportWorker0.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-AssetImportWorker0.log
+    projectPath: Logs\shadercompiler-AssetImportWorker0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe0.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe1.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe2.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe3.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe4.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe5.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe6.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    projectPath: Logs\shadercompiler-UnityShaderCompiler.exe7.log
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Project Aether\Temp\__Backupscenes\0.backup
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\UnityLockfile
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\Temp\workerlic
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\Temp\workerlic
+    projectPath: Temp\workerlic
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: Project Aether\UserSettings\EditorUserSettings.asset
+    fullPath: D:\CDP Studios\ProjectAether\Project Aether\UserSettings\EditorUserSettings.asset
+    projectPath: UserSettings\EditorUserSettings.asset
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3

@@ -8,7 +8,11 @@ public class InputManager : MonoBehaviour
     public float throttle;
     public float steer;
     public bool l;
+
+    public bool tl;
+
     public bool brake;
+
 
     // Update is called once per frame
     void Update()
@@ -18,5 +22,6 @@ public class InputManager : MonoBehaviour
         brake=Input.GetKey(KeyCode.Space);
 
         l = Input.GetKeyDown(KeyCode.L);
+        tl = Input.GetKey(KeyCode.S);
     }
 }

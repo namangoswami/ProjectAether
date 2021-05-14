@@ -11,10 +11,13 @@ public class PlayerMovement2 : MonoBehaviour
     public List<GameObject> steeringWheel;
     public List<GameObject> MeshesL, MeshesR;
     public GameObject wheelL, wheelR;
+    public UIManager uim;
     public InputManager im;
     public LightingManager lm;
     public float strenghtCoefficient =20000f;
     public float maxTurn=20f;
+    float s;
+    public bool nitro=true;
     public Transform CM;
     public Rigidbody rb;
     public float brakeStrength;
@@ -36,11 +39,35 @@ public class PlayerMovement2 : MonoBehaviour
         {
             lm.ToggleHeadlights();
         }
+        uim.changeText(transform.InverseTransformDirection(rb.velocity).z);
+
+        if (im.tl)
+            lm.ToggleBrakelightsOn(im.tl);
+        else
+        {
+            lm.ToggleBrakelightsOff();
+        }
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
+        if(Input.GetKey(KeyCode.LeftShift))
+        {
+            if(nitro=true)
+            {
+                s=strenghtCoefficient*20f;
+
+            }
+            else
+            {
+                s=strenghtCoefficient;
+            }
+        }
+        else
+        {
+            s=strenghtCoefficient;
+        }
        foreach (WheelCollider wheel in throttleWheels)
        {
           
@@ -52,7 +79,7 @@ public class PlayerMovement2 : MonoBehaviour
             }
             else
             {
-                 wheel.motorTorque=strenghtCoefficient*Time.deltaTime*im.throttle;
+                 wheel.motorTorque=s*Time.deltaTime*im.throttle;
                 wheel.brakeTorque= 0f;
             }
        
