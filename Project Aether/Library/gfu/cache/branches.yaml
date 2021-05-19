@@ -13,15 +13,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-05-16T17:44:09.130+05:30
   initializedAtString: 2021-05-16T17:44:09.000+05:30
+=======
+  lastUpdatedAtString: 2021-05-16T23:06:29.149+05:30
+  initializedAtString: 2021-05-16T22:02:31.352+05:30
+>>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
   localBranches:
   - name: main
     tracking: origin/main
   remoteBranches:
   - name: origin/HEAD
-    tracking: '[None]'
-  - name: origin/main
     tracking: '[None]'
   remotes:
   - name: origin
@@ -46,15 +49,9 @@ MonoBehaviour:
     subKeys:
     - Values:
       - HEAD
-      - main
     subKeyValues:
     - Values:
       - name: HEAD
-        remote:
-          name: origin
-          url: https://github.com/namangoswami/ProjectAether
-        trackingBranch: 
-      - name: main
         remote:
           name: origin
           url: https://github.com/namangoswami/ProjectAether

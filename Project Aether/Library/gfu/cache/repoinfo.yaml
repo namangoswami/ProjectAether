@@ -13,8 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
+<<<<<<< HEAD
   lastUpdatedAtString: 2021-05-16T17:44:06.032+05:30
   initializedAtString: 2021-05-16T17:44:06.032+05:30
+=======
+  lastUpdatedAtString: 2021-05-16T23:06:28.204+05:30
+  initializedAtString: 2021-05-16T22:02:07.609+05:30
+>>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
   currentGitRemote:
     name: origin
     url: https://github.com/namangoswami/ProjectAether

@@ -35,6 +35,7 @@ public class PlayerMovement2 : MonoBehaviour
 
     void Update()
     {
+        //Debug.Log(im.switchCam);
         if (im.l)
         {
             lm.ToggleHeadlights();
