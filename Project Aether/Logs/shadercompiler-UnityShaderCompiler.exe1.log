@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-Base path: 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2020.3.7f1/Editor/Data/PlaybackEngines'
-=======
 Base path: 'D:/CDP Studio/2020.3.8f1/Editor/Data', plugins path 'D:/CDP Studio/2020.3.8f1/Editor/Data/PlaybackEngines'
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
 Cmd: initializeCompiler
 
 Cmd: shutdown

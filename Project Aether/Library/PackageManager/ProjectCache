@@ -1,34 +1,19 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-<<<<<<< HEAD
-    m_FilePath: C:/CDP Studio/ProjectAether/Project Aether/Packages/manifest.json
-=======
     m_FilePath: D:/CDP Studio/ProjectAether/Project Aether/Packages/manifest.json
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637562465852477913
-    m_Hash: 4070978512
-  m_LockFileStatus:
-    m_FilePath: C:/CDP Studio/ProjectAether/Project Aether/Packages/packages-lock.json
-=======
-      ticks: 637566158387911405
+      ticks: 637572784510521214
     m_Hash: 4070978512
   m_LockFileStatus:
     m_FilePath: D:/CDP Studio/ProjectAether/Project Aether/Packages/packages-lock.json
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-<<<<<<< HEAD
-      ticks: 637562465852487925
-=======
-      ticks: 637566158387921387
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
+      ticks: 637572784510589612
     m_Hash: 2142867407
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -40,11 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.collab-proxy@1.3.9
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.collab-proxy@1.3.9
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -141,11 +122,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.rider@2.0.7
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.rider@2.0.7
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -250,11 +227,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.7
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.visualstudio@2.0.7
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -337,11 +310,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.vscode@1.2.3
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ide.vscode@1.2.3
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -410,11 +379,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.1.24
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.test-framework@1.1.24
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.test-framework@1.1.24
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -502,11 +467,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.4
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.textmeshpro@3.0.4
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.textmeshpro@3.0.4
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -665,11 +626,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.4.7
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.timeline@1.4.7
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.timeline@1.4.7
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -746,6 +703,7 @@ m_PackageAssets:
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
+        - 1.6.0-pre.5
         compatible:
         - 1.4.7
         - 1.4.8
@@ -764,6 +722,7 @@ m_PackageAssets:
         - 1.6.0-pre.1
         - 1.6.0-pre.3
         - 1.6.0-pre.4
+        - 1.6.0-pre.5
         verified: 1.4.8
       dependencies:
       - name: com.unity.modules.director
@@ -814,11 +773,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.ugui
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.ugui
       name: com.unity.ugui
       displayName: Unity UI
@@ -881,11 +836,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ai
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.ai
       name: com.unity.modules.ai
       displayName: AI
@@ -933,11 +884,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.androidjni
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.androidjni
       name: com.unity.modules.androidjni
       displayName: Android JNI
@@ -985,11 +932,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.animation
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.animation
       name: com.unity.modules.animation
       displayName: Animation
@@ -1037,11 +980,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.assetbundle
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.assetbundle
       name: com.unity.modules.assetbundle
       displayName: Asset Bundle
@@ -1089,11 +1028,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.audio
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.audio
       name: com.unity.modules.audio
       displayName: Audio
@@ -1141,11 +1076,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.cloth
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.cloth
       name: com.unity.modules.cloth
       displayName: Cloth
@@ -1197,11 +1128,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.director
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.director
       name: com.unity.modules.director
       displayName: Director
@@ -1257,11 +1184,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imageconversion
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.imageconversion
       name: com.unity.modules.imageconversion
       displayName: Image Conversion
@@ -1310,11 +1233,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.imgui
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.imgui
       name: com.unity.modules.imgui
       displayName: IMGUI
@@ -1362,11 +1281,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.jsonserialize
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.jsonserialize
       name: com.unity.modules.jsonserialize
       displayName: JSONSerialize
@@ -1414,11 +1329,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.particlesystem
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.particlesystem
       name: com.unity.modules.particlesystem
       displayName: Particle System
@@ -1466,11 +1377,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.physics
       name: com.unity.modules.physics
       displayName: Physics
@@ -1518,11 +1425,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.physics2d
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.physics2d
       name: com.unity.modules.physics2d
       displayName: Physics 2D
@@ -1570,11 +1473,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.screencapture
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.screencapture
       name: com.unity.modules.screencapture
       displayName: Screen Capture
@@ -1626,11 +1525,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrain
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.terrain
       name: com.unity.modules.terrain
       displayName: Terrain
@@ -1678,11 +1573,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.terrainphysics
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.terrainphysics
       name: com.unity.modules.terrainphysics
       displayName: Terrain Physics
@@ -1738,11 +1629,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.tilemap
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.tilemap
       name: com.unity.modules.tilemap
       displayName: Tilemap
@@ -1794,11 +1681,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.ui
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.ui
       name: com.unity.modules.ui
       displayName: UI
@@ -1846,11 +1729,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielements
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.uielements
       name: com.unity.modules.uielements
       displayName: UIElements
@@ -1914,11 +1793,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.umbra
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.umbra
       name: com.unity.modules.umbra
       displayName: Umbra
@@ -1966,11 +1841,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unityanalytics
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.unityanalytics
       name: com.unity.modules.unityanalytics
       displayName: Unity Analytics
@@ -2026,11 +1897,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequest
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.unitywebrequest
       name: com.unity.modules.unitywebrequest
       displayName: Unity Web Request
@@ -2078,11 +1945,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestassetbundle
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
       name: com.unity.modules.unitywebrequestassetbundle
       displayName: Unity Web Request Asset Bundle
@@ -2138,11 +2001,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestaudio
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.unitywebrequestaudio
       name: com.unity.modules.unitywebrequestaudio
       displayName: Unity Web Request Audio
@@ -2198,11 +2057,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequesttexture
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.unitywebrequesttexture
       name: com.unity.modules.unitywebrequesttexture
       displayName: Unity Web Request Texture
@@ -2258,11 +2113,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.unitywebrequestwww
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.unitywebrequestwww
       name: com.unity.modules.unitywebrequestwww
       displayName: Unity Web Request WWW
@@ -2334,11 +2185,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vehicles
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.vehicles
       name: com.unity.modules.vehicles
       displayName: Vehicles
@@ -2390,11 +2237,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.video
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.video
       name: com.unity.modules.video
       displayName: Video
@@ -2454,11 +2297,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.vr
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.vr
       name: com.unity.modules.vr
       displayName: VR
@@ -2520,11 +2359,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.wind
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.wind
       name: com.unity.modules.wind
       displayName: Wind
@@ -2572,11 +2407,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.xr
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.xr
       name: com.unity.modules.xr
       displayName: XR
@@ -2636,11 +2467,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.subsystems
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.subsystems
       name: com.unity.modules.subsystems
       displayName: Subsystems
@@ -2692,11 +2519,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 2
-<<<<<<< HEAD
-      resolvedPath: C:\Program Files\Unity\Hub\Editor\2020.3.7f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
-=======
       resolvedPath: D:\CDP Studio\2020.3.8f1\Editor\Data\Resources\PackageManager\BuiltInPackages\com.unity.modules.uielementsnative
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.modules.uielementsnative
       name: com.unity.modules.uielementsnative
       displayName: UIElements Native
@@ -2755,11 +2578,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.6
       source: 1
-<<<<<<< HEAD
-      resolvedPath: C:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ext.nunit@1.0.6
-=======
       resolvedPath: D:\CDP Studio\ProjectAether\Project Aether\Library\PackageCache\com.unity.ext.nunit@1.0.6
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -2817,10 +2636,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-<<<<<<< HEAD
-m_ProjectPath: C:/CDP Studio/ProjectAether/Project Aether/Packages
-m_EditorVersion: 2020.3.7f1 (dd97f2c94397)
-=======
 m_ProjectPath: D:/CDP Studio/ProjectAether/Project Aether/Packages
 m_EditorVersion: 2020.3.8f1 (507919d4fff5)
->>>>>>> d3bb226a7c2e10c149b0704346a3203ae7516fa1
