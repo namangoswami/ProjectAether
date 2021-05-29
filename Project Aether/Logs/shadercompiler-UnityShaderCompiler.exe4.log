@@ -2,3 +2,5 @@ Base path: 'D:/CDP Studio/2020.3.8f1/Editor/Data', plugins path 'D:/CDP Studio/2
 Cmd: initializeCompiler
 
 Cmd: shutdown
+
+Quitting shader compiler process
